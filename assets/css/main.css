@@ -115,8 +115,16 @@ iframe {
     width: 100%;
 }
 /*header csss starts from here*/
-._header_hero_navbar{
+/* ._header_hero_navbar{
 	justify-content: flex-end;
+} */
+#navbarSupportedContent{
+	justify-content: center;
+}
+
+._header_hero_logo img{
+	border-radius: 50%;
+	width: 80px;
 }
 
 
